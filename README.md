@@ -41,6 +41,6 @@ Keyboard Inputs:
 
 <a target="_blank" href="http://minus.com/i/ID3FZimcomQn"><img src="http://i.minus.com/jID3FZimcomQn.png" border="0"/></a>
 
-![Color](http://minus.com/i/HXiH3Np8jYi6)
+![Color](http://i.minus.com/iHXiH3Np8jYi6.png)
 
 
