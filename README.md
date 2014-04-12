@@ -1,5 +1,7 @@
 # Jungle Boogie
 
+<a target="_blank" href="http://minus.com/i/PHltDKB2bxje"><img src="http://i.minus.com/jPHltDKB2bxje.png" border="0"/></a>
+
 ## Overview
 
 Individual Video Game Development in CPP
@@ -41,6 +43,7 @@ Keyboard Inputs:
 
 <a target="_blank" href="http://minus.com/i/ID3FZimcomQn"><img src="http://i.minus.com/jID3FZimcomQn.png" border="0"/></a>
 
-![Color](http://i.minus.com/iHXiH3Np8jYi6.png)
+<a target="_blank" href="http://minus.com/i/HXiH3Np8jYi6"><img src="http://i.minus.com/jHXiH3Np8jYi6.png" border="0"/></a>
 
+<a target="_blank" href="http://minus.com/i/ueejL6CD5U90"><img src="http://i.minus.com/jueejL6CD5U90.png" border="0"/></a>
 
