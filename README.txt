@@ -14,7 +14,7 @@
  *  To handle matrix transforms for a view matrix, projection matrix and model transform matrix
  *  Base Code provided by Zoe Wood
  *
- **********************************************************************************************************/
+ *******************************************************/
 
  To Compile & Run: make
 
