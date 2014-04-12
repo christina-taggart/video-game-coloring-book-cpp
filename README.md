@@ -1,6 +1,6 @@
 # Jungle Boogie
 
-<a target="_blank" href="http://minus.com/i/PHltDKB2bxje"><img src="http://i.minus.com/jPHltDKB2bxje.png" border="0"/></a>
+<a target="_blank" href="http://minus.com/i/bqqSIuKdbEHuv"><img src="http://i.minus.com/jbqqSIuKdbEHuv.png" border="0"/></a>
 
 ## Overview
 
@@ -13,11 +13,15 @@ Individual Video Game Development in CPP
 * A user may select an object (hierarchical model) to color by selecting an object, centering the object in the middle of the screen, and right clicking to set the object to the selected color
 * A user may move forwards, backwards, and side to side directions relative to the camera's current gaze
 * A user may perform view rotations using the mouse objects in the world 
+
+## Basics
+
+<a target="_blank" href="http://minus.com/i/ID3FZimcomQn"><img src="http://i.minus.com/jID3FZimcomQn.png" border="0"/></a>
+
 * Objects are comprised of hierarchical models, and includes animation glut/OpenGL/GLSL 
 * Application uses glm and local matrix stack to handle matrix transforms for a view matrix, projection matrix and model transform matrix 
 * Base Code provided by Zoe Wood, CPE 471, Program 5: Final Project, Cal Poly
-
-To Compile & Run: make
+* to compile and run: 'make'
 
 Keyboard Inputs:
 * 'a' - moves to the left of current gaze
@@ -39,9 +43,7 @@ Keyboard Inputs:
 * 'mouse drag' moves camera view throughout world
 * 'q' - quit the program
 
-## Images
-
-<a target="_blank" href="http://minus.com/i/ID3FZimcomQn"><img src="http://i.minus.com/jID3FZimcomQn.png" border="0"/></a>
+## Coloring the World
 
 <a target="_blank" href="http://minus.com/i/bqqSIuKdbEHuv"><img src="http://i.minus.com/jbqqSIuKdbEHuv.png" border="0"/></a>
 
