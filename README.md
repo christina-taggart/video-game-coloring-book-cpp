@@ -1,6 +1,6 @@
 # Jungle Boogie
 
-<a target="_blank" href="http://minus.com/i/bqqSIuKdbEHuv"><img src="http://i.minus.com/jbqqSIuKdbEHuv.png" border="0"/></a>
+<a target="_blank" href="http://minus.com/i/ed7ooRJtqKc9"><img src="http://i.minus.com/jed7ooRJtqKc9.png" border="0"/></a>
 
 ## Overview
 
