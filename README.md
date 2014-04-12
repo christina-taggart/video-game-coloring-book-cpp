@@ -19,11 +19,11 @@ Individual Video Game Development in CPP
 <a target="_blank" href="http://minus.com/i/ID3FZimcomQn"><img src="http://i.minus.com/jID3FZimcomQn.png" border="0"/></a>
 
 * Animation and movement uses glut/OpenGL/GLSL 
-* Camera Transforms: application uses glm and local matrix stack to handle matrix transforms for a view matrix, projection matrix and model transform matrix 
-* Full Phong Lighting: Kd(N*L)id  +  Ks(V*R)^a *is  +  Ka*il  +  0 (diffuse + specular + ambient + emissive)
+* Camera transforms: application uses glm and local matrix stack to handle matrix transforms for a view matrix, projection matrix and model transform matrix 
+* Full phong lighting: Kd(N*L)id  +  Ks(V*R)^a *is  +  Ka*il  +  0 (diffuse + specular + ambient + emissive)
 * Hierarchical models
 * To compile and run: 'make'
-* Base Code provided by Zoe Wood, CPE 471, Program 5: Final Project, Cal Poly
+* Base code provided by Zoe Wood, CPE 471, Program 5: Final Project, Cal Poly
 
 # Keyboard Inputs
 
