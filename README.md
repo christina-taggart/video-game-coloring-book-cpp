@@ -32,10 +32,6 @@ Individual Video Game Development in CPP
 * 's' - dolly backward
 * 'd' - dolly right
 
-* 'a' - moves to the left of current gaze
-* 'd' - moves to the right of current gaze
-* 'w' - moves forward in the scene along the current gaze
-* 's' - moves backward in the scene along the current gaze
 * 'r' - selcets red color
 * 'g' - selects green color
 * 'b' - selects blue color
