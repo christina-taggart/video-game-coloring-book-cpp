@@ -5,7 +5,7 @@
  *  Description: User may select a keyboard color that appears in an icon on the screen
  *  As the user explores the world, she or he may select the object they wish to color
  *  by moving near the object, centering the object in the middle of the screen, and
- 	  right clicking to set the color. 
+ *  right clicking to set the color. 
  *  User may move in forwards, backwards, and side to side directions relative to current gaze
  *  as well as perform view rotations using the mouse
  *  Objects in world comprised of hierarchical models, and includes animation
