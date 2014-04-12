@@ -1,0 +1,5 @@
+mac:
+	g++ Lab0.cpp GLSL_helper.cpp MStackHelp.cpp GeometryCreator.cpp Mask.cpp -DGL_GLEXT_PROTOTYPES -framework OpenGL -framework GLUT
+	./a.out
+#linux:
+#    g++ Lab0.cpp GLSL_helper.cpp MStackHelp.cpp -lGL -lGLU -lglut
