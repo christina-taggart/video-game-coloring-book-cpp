@@ -31,7 +31,6 @@ Individual Video Game Development in CPP
 * 'a' - strafe left
 * 's' - dolly backward
 * 'd' - strafe right
-
 * 'r' - selcets red color
 * 'g' - selects green color
 * 'b' - selects blue color
